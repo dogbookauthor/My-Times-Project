@@ -1,0 +1,54 @@
+.header{
+  font-size: 14px;
+  font-family: Verdana;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+  height: 80px;
+  border-bottom: 1px solid black;
+  background-color: white;
+
+}
+.logo img{
+  margin-right: 12px;
+  width: 70px;
+  height: 60px;
+}
+.logo{
+  color: MediumAquamarine;
+  display: flex;
+  align-items: center;
+  padding-left: 40px;
+  width: 574px;
+  flex-grow: 1;
+}
+nav {
+  display: inline-block;
+  color: black;
+  width: 269.625px;
+  padding: 20px 10px;
+}
+nav span{
+  padding: 10px;
+}
+.content{
+
+}
+.column large{
+
+}
+.lead-story{
+
+}
+.narrative{
+
+}
+.stories{
+
+}
+.story{
+
+}
